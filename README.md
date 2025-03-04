@@ -1,10 +1,10 @@
 # Data Quality Analysis
 
-Overview
+#Overview
 
 This repository contains a Jupyter Notebook focused on data quality analysis. The notebook explores various techniques to assess and improve the quality of data, ensuring it is accurate, complete, and reliable for analysis.
 
-Features
+#Features
 
 Data cleaning and preprocessing
 
@@ -16,7 +16,7 @@ Detecting anomalies and inconsistencies
 
 Data validation and standardization
 
-Technologies Used
+#Technologies Used
 
 Python
 
